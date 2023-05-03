@@ -1,0 +1,50 @@
+# Java Build
+**/target/
+**/bin/
+**/build/
+**/classes/
+*.class
+
+# IDE files
+**/.project
+**/.classpath
+**/.settings/
+*.iml
+
+# Maven Build
+**/log/
+**/pom.xml
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+**/release.properties
+**/dependency-reduced-pom.xml
+**/buildNumber.properties
+**/m2e-wtp/
+
+# Logs
+**/*.log*
+**/*.cache
+**/*.bak
+
+# Servlet Container specific files
+**/*.war
+**/*.ear
+**/*.jar
+**/*.json
+
+# JSP Generated code
+**/*_jsp.*
+**/*$.java
+
+# Eclipse
+**/.project
+**/.classpath
+**/.settings/
+**/*.tmp
+**/bin/
+**/.metadata/
+**/*.launch
+**/*-javadoc.jar
+**/*-sources.jar
